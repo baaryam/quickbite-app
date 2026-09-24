@@ -208,7 +208,7 @@ A dual testing strategy was executed:
 ---
 
 ### 13. GitHub Repository Link Placeholder
-* **GitHub Repository URL:** `https://github.com/your-username/quickbite_app`
+* **GitHub Repository URL:** `https://github.com/baaryam/quickbite_app`
 * **Branch:** `main`
 * **Commit Hash:** `Initial MVP Release - Complete QuickBite Implementation`
 
