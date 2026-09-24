@@ -167,10 +167,9 @@ A dual testing strategy was executed:
 
 ### 12. Screenshots Section
 
-> *Below are placeholders for embedding application screenshots captured from the running device/emulator:*
 
 #### 1. Splash Screen
-`[ Insert Screenshot: 01_splash_screen.png ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/611400d8-5d07-4beb-adb5-1e67cd56cbd0" />
 
 #### 2. Login / Guest Access Screen
 `[ Insert Screenshot: 02_login_screen.png ]`
