@@ -172,37 +172,36 @@ A dual testing strategy was executed:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/611400d8-5d07-4beb-adb5-1e67cd56cbd0" />
 
 #### 2. Login / Guest Access Screen
-`[ Insert Screenshot: 02_login_screen.png ]`
+<img width="792" height="830" alt="image" src="https://github.com/user-attachments/assets/26749546-812a-4cbf-bc65-799f07d4fb8c" />
 
 #### 3. Home Screen (Menu & Category Filter)
-`[ Insert Screenshot: 03_home_screen.png ]`
+<img width="1297" height="987" alt="image" src="https://github.com/user-attachments/assets/f7bdd645-ffbf-4802-8863-5ab985ed7b36" />
 
 #### 4. Item Detail Screen
-`[ Insert Screenshot: 04_item_detail_screen.png ]`
+<img width="1288" height="872" alt="image" src="https://github.com/user-attachments/assets/eca4e885-07a8-4439-9d2c-4aa18335f4a0" />
 
 #### 5. Cart / Tray Screen
-`[ Insert Screenshot: 05_cart_screen.png ]`
+<img width="1290" height="446" alt="image" src="https://github.com/user-attachments/assets/1fe55cf8-1374-4bc3-b275-4788791c3134" />
 
 #### 6. Simulated Checkout Screen
-`[ Insert Screenshot: 06_checkout_screen.png ]`
+<img width="1133" height="856" alt="image" src="https://github.com/user-attachments/assets/7dd8cd7d-ad4e-4015-b956-21eace0a405e" />
 
 #### 7. Order Confirmation Screen
-`[ Insert Screenshot: 07_order_confirmation_screen.png ]`
+<img width="1167" height="851" alt="image" src="https://github.com/user-attachments/assets/2ca703a9-5ea3-4467-bf35-3a183d4ce0af" />
 
 #### 8. Live Order Tracking Screen
-`[ Insert Screenshot: 08_order_tracking_screen.png ]`
+<img width="1277" height="858" alt="image" src="https://github.com/user-attachments/assets/61286b81-53b0-4cab-913a-7a15077516dc" />
 
 #### 9. Student Profile & Order History Screen
-`[ Insert Screenshot: 09_profile_screen.png ]`
-
-#### 10. Phone Responsive View
-`[ Insert Screenshot: 10_phone_responsive_view.png ]`
+<img width="1251" height="847" alt="image" src="https://github.com/user-attachments/assets/561b5e3d-55d0-4070-92cc-73311f3f0e83" />
 
 #### 11. Tablet Responsive View
-`[ Insert Screenshot: 11_tablet_responsive_view.png ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f767daec-7b7b-43ce-8586-df84965e9bae" />
+
 
 #### 12. Successful Test Execution Terminal Evidence
-`[ Insert Screenshot: 12_test_execution_terminal.png ]`
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10553c32-cb20-445a-b8e6-57ac33b5c2e4" />
+
 
 ---
 
